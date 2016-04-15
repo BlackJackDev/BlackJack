@@ -1,0 +1,11 @@
+[Protocol]
+exec=blackjack-qt '%u'
+protocol=blackjack
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false

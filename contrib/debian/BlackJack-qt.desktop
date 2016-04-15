@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=BlackJack
+Comment=BlackJack P2P Cryptocurrency
+Comment[fr]=BlackJack, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=BlackJack, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/blackjack-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/blackjack;
+Categories=Office;

@@ -1,0 +1,5 @@
+blackjack-qt usr/bin
+share/pixmaps/bitcoin32.xpm usr/share/pixmaps
+share/pixmaps/bitcoin80.xpm usr/share/pixmaps
+debian/blackjack-qt.desktop usr/share/applications
+debian/blackjack-qt.protocol usr/share/kde4/services/

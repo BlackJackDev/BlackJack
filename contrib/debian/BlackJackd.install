@@ -1,0 +1,2 @@
+debian/bin/blackjackd usr/bin
+src/blackjackd usr/lib/blackjack
