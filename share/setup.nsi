@@ -5,7 +5,7 @@ SetCompressor /SOLID lzma
 
 # General Symbol Definitions
 !define REGKEY "SOFTWARE\$(^Name)"
-!define VERSION 0.3.0
+!define VERSION 1.0.1
 !define COMPANY "BlackJack project"
 !define URL http://www.blackjackcoin.org
 
@@ -45,13 +45,13 @@ Var StartMenuGroup
 !insertmacro MUI_LANGUAGE English
 
 # Installer attributes
-OutFile ..\release\BlackJack-1.0.0-win32-setup.exe
+OutFile ..\release\BlackJack-1.0.1-win32-setup.exe
 InstallDir $PROGRAMFILES\BlackJack
 CRCCheck on
 XPStyle on
 BrandingText "${URL}"
 ShowInstDetails show
-VIProductVersion 1.0.0.0
+VIProductVersion 1.0.1.0
 VIAddVersionKey ProductName BlackJack
 VIAddVersionKey ProductVersion "${VERSION}"
 VIAddVersionKey CompanyName "${COMPANY}"
